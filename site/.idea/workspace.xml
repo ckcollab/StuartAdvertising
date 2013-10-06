@@ -4,8 +4,8 @@
     <list default="true" id="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" name="Default" comment="" />
     <ignored path="site.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380879139563" ignored="false" />
-    <file path="/custom.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381031905902" ignored="false" />
+    <file path="/index.html" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381099796270" ignored="false" />
+    <file path="/custom.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381100015612" ignored="false" />
     <file path="/a.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252241215" ignored="false" />
     <file path="/a.sass" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252242867" ignored="false" />
     <file path="/a.scss" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252245975" ignored="false" />
@@ -59,8 +59,8 @@
     <file path="/urls.py" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381045065826" ignored="false" />
     <file path="$USER_HOME$/Desktop/Projects/Python/perfectiontire/perfectiontire_project/settings/base.py" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381045195505" ignored="false" />
     <file path="/base.py" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381045194529" ignored="false" />
-    <file path="$USER_HOME$/Desktop/Projects/Python/perfectiontire/perfectiontire_project/static/js/tires.js" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381050934073" ignored="false" />
-    <file path="/tires.js" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381050857770" ignored="false" />
+    <file path="$USER_HOME$/Desktop/Projects/Python/perfectiontire/perfectiontire_project/static/js/tires.js" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381053678694" ignored="false" />
+    <file path="/tires.js" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381053624836" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +80,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0">
+            <state line="75" column="14" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.3066089">
               <folding />
             </state>
           </provider>
@@ -92,16 +92,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="224" column="18" selection-start="9000" selection-end="9000" vertical-scroll-proportion="-149.89655">
+            <state line="266" column="37" selection-start="10346" selection-end="10346" vertical-scroll-proportion="-15.413794">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrolly.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="scrolly.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scrolly.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="37" selection-start="2878" selection-end="2878" vertical-scroll-proportion="2.2863247">
+            <state line="107" column="37" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -137,8 +137,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/scrolly.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.less" />
       </list>
     </option>
@@ -318,11 +318,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24635416" sideWeight="0.6572668" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24635416" sideWeight="0.65800416" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34273317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34199584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -463,7 +463,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="937" selection-end="937" vertical-scroll-proportion="0.86856514" />
+        <state line="42" column="0" selection-start="937" selection-end="937" vertical-scroll-proportion="0.86856514">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../stuartmockupcentered/index.html">
@@ -478,26 +480,26 @@
         <state line="168" column="4" selection-start="3403" selection-end="3451" vertical-scroll-proportion="0.5914567" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/scrolly.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="37" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="18" selection-start="9000" selection-end="9000" vertical-scroll-proportion="-149.89655">
+        <state line="266" column="37" selection-start="10346" selection-end="10346" vertical-scroll-proportion="-15.413794">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0">
+        <state line="75" column="14" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.3066089">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scrolly.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="37" selection-start="2878" selection-end="2878" vertical-scroll-proportion="2.2863247">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
