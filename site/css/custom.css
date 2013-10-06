@@ -1,0 +1,120 @@
+/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+body {
+  background: url('../img/paper.png');
+  padding-bottom: 500px;
+}
+#timeline_container {
+  position: relative;
+  background: url('../img/timeline.png') 50% 50% repeat-y;
+  padding-bottom: 20px;
+}
+#great_moments_in_history {
+  margin-left: 14px;
+}
+#bottom_ornament {
+  margin-top: -15px;
+  margin-left: -3px;
+}
+#down_pointer {
+  z-index: 5;
+  position: fixed;
+  right: 25px;
+  top: 20px;
+  -moz-transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+#down_pointer:hover {
+  top: 30px;
+}
+.timeline_entry {
+  position: relative;
+  padding: 150px 0;
+  font-family: "Times New Roman", san-serif;
+  font-size: 24px;
+}
+.timeline_year_and_junk {
+  display: none;
+}
+.year {
+  position: absolute;
+  left: 30%;
+}
+.year_number {
+  position: absolute;
+  right: 28%;
+}
+.year_bar {
+  display: block;
+  margin: 10px auto 0 auto;
+}
+.timeline_image {
+  display: block;
+  margin: 0 auto 0 auto;
+  padding: 40px 0;
+}
+.dots {
+  display: inline-block;
+  visibility: hidden;
+}
+.left_text {
+  position: absolute;
+  left: 0%;
+  width: 50%;
+  text-justify: inter-word;
+  text-align: right;
+  padding-right: 20px;
+  margin-top: -10px;
+}
+.left_text .timeline_green_dot {
+  position: absolute;
+  left: 98.65%;
+  margin-top: -23px;
+}
+.right_text {
+  position: absolute;
+  right: 0%;
+  width: 50%;
+  text-align: left;
+  text-justify: inter-word;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+.right_text .timeline_green_dot {
+  position: absolute;
+  right: 98.65%;
+  margin-top: 10px;
+}
+/*
+ * Mobile
+ */
+@media only screen and (max-width: 535px) {
+  #great_moments_in_history {
+    margin-left: 5px;
+    width: 100%;
+  }
+  #down_pointer {
+    width: 75px;
+    right: 10px;
+  }
+  .year {
+    height: 20px;
+    left: 20%;
+  }
+  .year_bar {
+    width: 40px;
+  }
+  .year_number {
+    height: 20px;
+    right: 15%;
+  }
+  .timeline_dots {
+    display: none;
+  }
+}
