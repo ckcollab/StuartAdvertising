@@ -115,4 +115,17 @@
             <p>I manage social media and online brand presence for many Stuart Advertising clients.</p>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Paige Orendor.JPG" alt="Leah Masten" width="165">
+        </div>
+        <div class="col-md-9">
+            <h3>Paige Orendor</h3>
+
+            <b>Administrative Assistant</b>
+
+            <p>I enter Accounts Payable and Receivable, create client invoicing, track financials, answer the phone, file, problem solve, make deliveries and have even appeared in 2 client commercials as Talent.</p>
+        </div>
+    </div>
 </div>
