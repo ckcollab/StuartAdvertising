@@ -70,14 +70,14 @@ body {
 #timeline_container {
   position: relative;
   background: url('../img/timeline.png') 50% 50% repeat-y;
-  padding-bottom: 20px;
+  padding-bottom: 110px;
 }
 #great_moments_in_history {
   margin-left: 14px;
 }
 #bottom_ornament {
   margin-top: -15px;
-  margin-left: -3px;
+  margin-left: -2px;
 }
 #down_pointer {
   z-index: 5;
@@ -142,6 +142,9 @@ body {
   left: 98.65%;
   margin-top: -23px;
 }
+.left_box {
+  margin-right: 50px;
+}
 .right_text {
   position: absolute;
   right: 0%;
@@ -172,6 +175,30 @@ body {
   color: #694B3D;
   font: 30px/47px "Bolton Sans";
   letter-spacing: -1px;
+}
+#what_stuart_does li a {
+  color: #7A5226;
+}
+#top_menu {
+  z-index: 10;
+  padding: 20px 0;
+}
+#top_menu ul {
+  list-style-type: none;
+  text-align: center;
+  display: inline-block;
+}
+#top_menu ul li {
+  margin-right: 30px;
+  float: left;
+  position: relative;
+  line-height: 57px;
+  color: #694B3D;
+  font: 30px/47px "Bolton Sans";
+  letter-spacing: -1px;
+}
+#top_menu ul li a {
+  color: #7A5226;
 }
 #stuart_phone_number {
   font-family: "Times New Roman", sans-serif;
@@ -210,4 +237,22 @@ body {
   .timeline_dots {
     display: none;
   }
+}
+/*
+ * About page
+ */
+.about-page .row {
+  padding-bottom: 30px;
+}
+.about-page .row img {
+  border: 5px solid #977E66;
+}
+.about-page .main-about p {
+  font-size: 14px;
+}
+/*
+ * Contact us
+ */
+.contact-us-map {
+  border: 5px solid rgba(63, 57, 27, 0.5);
 }
