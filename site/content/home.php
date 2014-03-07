@@ -52,26 +52,28 @@
 
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 60px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/3547bc.gif" alt="3547 BC">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/caveart.gif" alt="Cave Art">
 
         <div class="left_text">
-            <p class="left_box">Early tribes <b>begin</b> cave paintings.</p>
 
-            <span class="dots">
-                <img class="timeline_dots" src="img/dotted_lines.png" alt="">
-                <img class="timeline_green_dot" src="img/green_dot.png" alt="">
-            </span>
+            <p>
+                Early tribesbegin cave paintings.
+                <span class="dots">
+                    <img class="timeline_dots" src="img/dotted_lines.png" alt="">
+                    <img class="timeline_green_dot" src="img/green_dot.png" alt="">
+                </span>
+            </p>
 
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -84,14 +86,14 @@
 
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1450.gif" alt="1450">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/press.gif" alt="The Printing Press">
 
         <div class="left_text">
             <p>
@@ -103,7 +105,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -116,14 +118,14 @@
 
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1852.gif" alt="1852">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/toilet.gif" alt="The Toilet">
 
         <div class="left_text">
             <p>
@@ -135,7 +137,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -148,14 +150,14 @@
 
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1860.gif" alt="1860">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/ponyexpress.gif" alt="The Pony Express">
 
         <div class="left_text">
             <p>
@@ -167,7 +169,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -180,14 +182,14 @@
 
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1922.gif" alt="1922">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/radio.gif" alt="The Radio">
 
         <div class="left_text">
             <p>
@@ -199,7 +201,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -211,14 +213,14 @@
     </div>
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1927.gif" alt="1927">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/tv.gif" alt="Television">
 
         <div class="left_text">
             <p>
@@ -230,7 +232,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 95px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -242,14 +244,14 @@
     </div>
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 160px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/1991.gif" alt="1991">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/www.gif" alt="The Internet">
 
         <div class="left_text">
             <p>
@@ -261,7 +263,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -273,14 +275,14 @@
     </div>
 
     <!-- Entry -->
-    <div class="timeline_entry">
+    <div class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
-            <img class="year_number" src="img/4601bc.gif" alt="4601 BC">
+            <img class="year_number" src="img/2006.gif" alt="2006">
             <img class="year_bar" src="img/year_bar.png" alt="">
         </span>
 
-        <img class="timeline_image" src="img/wheel.gif" alt="The Wheel">
+        <img class="timeline_image" src="img/facebook.gif" alt="Facebook">
 
         <div class="left_text">
             <p>
@@ -292,7 +294,7 @@
             </p>
         </div>
 
-        <div class="right_text">
+        <div class="right_text" style="margin-top: 60px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">

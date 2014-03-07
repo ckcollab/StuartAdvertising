@@ -51,9 +51,26 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-lg-5">
+            <p>
+                <b>Phone:</b> 509-448-5601<br>
+                <b>Fax:</b> 509-448-5609<br>
+                <b>Email:</b> realperson@stuartadv.com
+            </p>
+
+            <p>
+                2601 West Gardner Ave.,<br>
+                Spokane WA 99201
+            </p>
+
+            <iframe class="contact-us-map" width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2601+west+gardner,+spokane,+wa+99201&amp;aq=&amp;sll=47.650995,-117.423835&amp;sspn=0.012344,0.033023&amp;ie=UTF8&amp;hq=&amp;hnear=2601+W+Gardner,+Spokane,+Washington+99201&amp;t=m&amp;z=14&amp;ll=47.666835,-117.449984&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2601+west+gardner,+spokane,+wa+99201&amp;aq=&amp;sll=47.650995,-117.423835&amp;sspn=0.012344,0.033023&amp;ie=UTF8&amp;hq=&amp;hnear=2601+W+Gardner,+Spokane,+Washington+99201&amp;t=m&amp;z=14&amp;ll=47.666835,-117.449984" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+        </div>
+
+        <div class="col-lg-5">
             <form action="index.php?page=contact" method="post">
-                <legend>Contact us</legend>
+                <legend style="border-bottom: 1px solid rgb(99, 85, 11);">Contact us</legend>
+                <p>Please feel free to contact us, please include your name and contact information so
+                that we can get right back to you!</p>
 
                 <div class="form-group">
                     <label for="name">Name</label>
@@ -67,7 +84,7 @@
 
                 <div class="form-group">
                     <label for="message">Message</label>
-                    <textarea class="col-md-12" rows="8" class="form-control" placeholder="Message" name="message"><?php if(isset($_POST['message'])) echo $_POST['message']; ?></textarea>
+                    <textarea class="form-control" rows="8" class="form-control" placeholder="Message" name="message"><?php if(isset($_POST['message'])) echo $_POST['message']; ?></textarea>
                 <div>
 
                 <br><br>
@@ -81,12 +98,6 @@
 
                 <button type="submit" class="btn">Submit</button>
             </form>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <iframe class="contact-us-map" width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2601+west+gardner,+spokane,+wa+99201&amp;aq=&amp;sll=47.650995,-117.423835&amp;sspn=0.012344,0.033023&amp;ie=UTF8&amp;hq=&amp;hnear=2601+W+Gardner,+Spokane,+Washington+99201&amp;t=m&amp;z=14&amp;ll=47.666835,-117.449984&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2601+west+gardner,+spokane,+wa+99201&amp;aq=&amp;sll=47.650995,-117.423835&amp;sspn=0.012344,0.033023&amp;ie=UTF8&amp;hq=&amp;hnear=2601+W+Gardner,+Spokane,+Washington+99201&amp;t=m&amp;z=14&amp;ll=47.666835,-117.449984" style="color:#0000FF;text-align:left">View Larger Map</a></small>
         </div>
     </div>
 </div>
