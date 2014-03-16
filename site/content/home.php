@@ -64,7 +64,7 @@
         <div class="left_text">
 
             <p>
-                Early tribesbegin cave paintings.
+                Early tribes begin cave paintings.
                 <span class="dots">
                     <img class="timeline_dots" src="img/dotted_lines.png" alt="">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -213,7 +213,7 @@
     </div>
 
     <!-- Entry -->
-    <div class="timeline_entry" style="margin-top: 90px;">
+    <div id="tv_entry" class="timeline_entry" style="margin-top: 90px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
             <img class="year_number" src="img/1927.gif" alt="1927">
@@ -232,7 +232,7 @@
             </p>
         </div>
 
-        <div class="right_text" style="margin-top: 95px;">
+        <div class="right_text" style="margin-top: 130px;">
             <p>
                 <span class="dots">
                     <img class="timeline_green_dot" src="img/green_dot.png" alt="">
@@ -244,7 +244,7 @@
     </div>
 
     <!-- Entry -->
-    <div class="timeline_entry" style="margin-top: 160px;">
+    <div class="timeline_entry" style="margin-top: 180px;">
         <span class="timeline_year_and_junk">
             <img class="year" src="img/year.png" alt="YEAR">
             <img class="year_number" src="img/1991.gif" alt="1991">

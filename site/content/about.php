@@ -98,7 +98,7 @@
             <b>Media Coordinator</b>
 
             <p>I assist with the with Media buying, filter through all of the sales calls from
-            varying media types- so our clients don’t have to- and send traffic / commercials to TV & radio stations. I
+            varying media types- so our clients don't have to- and send traffic / commercials to TV & radio stations. I
             also assist in event planning and meeting with clients.</p>
         </div>
     </div>

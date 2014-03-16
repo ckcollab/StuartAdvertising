@@ -22,8 +22,11 @@ if(isset($_GET['page'])) {
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="Full service advertising agency serving the Spokane and Coeur d'Alene area with a fantastic reputation and unbeatable pricing for all of your advertising needs."/>
+    <meta name="keywords" content="advertise, advertising, marketing, graphic design, account management, commercial advertising, radio advertising, full service advertising agency, advertising agency, TV advertising, commercial production, video production, marketing production, internet advertising, social media management, social media advertising, web design, direct mail, billboard, media, media buyer, Spokane, Spokane Area, Coeur d'Alene"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <title>Stuart Advertising</title>
+    <title>Stuart Advertising - Full Service Advertising/Marketing Specialists</title>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="css/custom.css" />
@@ -33,7 +36,7 @@ if(isset($_GET['page'])) {
 <body>
     <div class="row">
         <div class="col-md-12 text-center">
-            <img src="img/logo.gif" alt="Stuart Advertising Logo">
+            <img id="logo" src="img/logo.gif" alt="Stuart Advertising Logo">
         </div>
     </div>
 

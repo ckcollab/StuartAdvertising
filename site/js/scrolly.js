@@ -93,10 +93,33 @@ var scrolly = function() {
                     $row.find('.timeline_year_and_junk').fadeOut();
                 }
 
-                console.log(val);
+                var width = $(window).width();
+                var string_val = val + "%";
 
-                $rowL.css({left: - val + '%'});
-                $rowR.css({right: - val + '%'});
+                if(val == 0) {
+                    string_val = "0px";
+                }
+
+                if(width < 1000) {
+                    if(val == 0) {
+                        string_val = "-3px";
+                    }
+                }
+
+                if(width < 500) {
+                    if(val == 0) {
+                        string_val = "-4px";
+                    }
+                }
+
+                if(width < 450) {
+                    if(val == 0) {
+                        string_val = "-5px";
+                    }
+                }
+
+                $rowL.css({left: string_val});
+                $rowR.css({right: string_val});
             }
         });
     };
