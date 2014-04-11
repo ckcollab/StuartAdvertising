@@ -1,2 +1,1 @@
-StuartAdvertising
-=================
+Stuart Advertising company website!
