@@ -19,10 +19,9 @@
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Tom Stuart.JPG" alt="Tom Stuart" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Tom.jpg" class="big-about-image" alt="Tom Stuart">
+
             <h3>Tom Stuart</h3>
 
             <b>Agency Owner / Account Manager</b>
@@ -32,13 +31,15 @@
             all media facets of company (print jobs, web design, photography etc.) I customize my many years of
             media and advertising experience to each individual client's needs, our success is their success!</p>
         </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Tom Stuart.JPG" alt="Tom Stuart" width="165">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Sara Carlson.jpg" alt="Sara Carlson" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Sara.jpg" class="big-about-image" alt="Sara Carlson">
+
             <h3>Sara Carlson</h3>
 
             <b>Office Manager / Account Manager</b>
@@ -48,13 +49,15 @@
             TV & radio commercials, assist in anything Tom needs, problem solve and help to do whatever else I can
             in order to make a project turn out awesome for our clients.</p>
         </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Sara Carlson.jpg" alt="Sara Carlson" width="165">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Claire Price.jpg" alt="Claire Price" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Claire.jpg" class="big-about-image" alt="Claire Price">
+
             <h3>Claire Price</h3>
 
             <b>Account Manager</b>
@@ -63,13 +66,15 @@
             solutions, start the creative process, carry it through to the finished product, write ad copy for TV &
             radio.</p>
         </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Claire Price.jpg" alt="Claire Price" width="165">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Dick Brantly.jpg" alt="Dick Brantly" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Dick.jpg" class="big-about-image" alt="Dick Brantly">
+
             <h3>Dick Brantly</h3>
 
             <b>Account Manager</b>
@@ -86,13 +91,15 @@
             <p>Yes, I know it has to be earned! Enough about me; Let's talk about how the Stuart Advertising team can
             help you grow your business! I love the creative ideas hidden in the minds of this team!</p>
         </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Dick Brantly.jpg" alt="Dick Brantly" width="165">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Ashley Killian.jpg" alt="Ashley Killian" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Ashley.jpg" class="big-about-image" alt="Ashley Killian">
+
             <h3>Ashley Killian</h3>
 
             <b>Media Coordinator</b>
@@ -101,31 +108,40 @@
             varying media types- so our clients don't have to- and send traffic / commercials to TV & radio stations. I
             also assist in event planning and meeting with clients.</p>
         </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Ashley Killian.jpg" alt="Ashley Killian" width="165">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Leah Masten.jpg" alt="Leah Masten" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Leah.jpg" class="big-about-image" alt="Leah Anderson">
+
             <h3>Leah Anderson</h3>
 
             <b>Social Media Manager</b>
 
             <p>I manage social media and online brand presence for many Stuart Advertising clients.</p>
+            <br><br><br><br><br><br>
+        </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Leah Masten.jpg" alt="Leah Masten" width="165">
         </div>
     </div>
 
     <div class="row">
-        <div class="col-md-3 text-center">
-            <img src="img/staff/Paige Orendor.JPG" alt="Leah Masten" width="165">
-        </div>
         <div class="col-md-9">
+            <img src="img/staff/About Us Paige.jpg" class="big-about-image" alt="Paige Orendor">
+
             <h3>Paige Orendor</h3>
 
             <b>Administrative Assistant</b>
 
             <p>I enter Accounts Payable and Receivable, create client invoicing, track financials, answer the phone, file, problem solve, make deliveries and have even appeared in 2 client commercials as Talent.</p>
+            <br><br><br>
+        </div>
+        <div class="col-md-3 text-center">
+            <img src="img/staff/Paige Orendor.JPG" alt="Leah Masten" width="165">
         </div>
     </div>
 </div>

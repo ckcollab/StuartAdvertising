@@ -5,7 +5,7 @@
     <ignored path="site.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381099796270" ignored="false" />
-    <file path="/custom.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1394950415326" ignored="false" />
+    <file path="/custom.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1397109841592" ignored="false" />
     <file path="/a.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252241215" ignored="false" />
     <file path="/a.sass" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252242867" ignored="false" />
     <file path="/a.scss" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1380252245975" ignored="false" />
@@ -76,7 +76,7 @@
     <file path="/main.less" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381119204629" ignored="false" />
     <file path="$USER_HOME$/Desktop/Projects/Python/perfectiontire/perfectiontire_project/static/css/perfectiontire/productPage.css" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381159436203" ignored="false" />
     <file path="$USER_HOME$/Desktop/Projects/Python/perfectiontire/perfectiontire_project/static/css/perfectiontire/main.css" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1381159436203" ignored="false" />
-    <file path="/about.php" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1394229421188" ignored="false" />
+    <file path="/about.php" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1397110126272" ignored="false" />
     <file path="/services.php" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1393275431329" ignored="false" />
     <file path="/index.php" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1394831032931" ignored="false" />
     <file path="/contact.php" changelist="5421fbf5-8ef4-49e0-aa5e-0eef4a22f6da" time="1394172654747" ignored="false" />
@@ -113,7 +113,7 @@
       <file leaf-file-name="custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="49" selection-start="2457" selection-end="2457" vertical-scroll-proportion="0.0">
+            <state line="258" column="25" selection-start="6054" selection-end="6054" vertical-scroll-proportion="-15.96">
               <folding />
             </state>
           </provider>
@@ -128,15 +128,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="319" column="0" selection-start="7054" selection-end="7054" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/home.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -146,19 +137,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrolly.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="scrolly.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scrolly.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="46" selection-start="3291" selection-end="3291" vertical-scroll-proportion="0.47008547">
+            <state line="120" column="46" selection-start="3291" selection-end="3291" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="36" selection-start="4773" selection-end="4773" vertical-scroll-proportion="0.0">
+            <state line="140" column="24" selection-start="6577" selection-end="6577" vertical-scroll-proportion="0.7757313">
               <folding />
             </state>
           </provider>
@@ -176,13 +167,13 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/services.php" />
-        <option value="$PROJECT_DIR$/content/about.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/content/contact.php" />
         <option value="$PROJECT_DIR$/js/scrolly.js" />
         <option value="$PROJECT_DIR$/content/home.php" />
         <option value="$PROJECT_DIR$/css/custom.less" />
+        <option value="$PROJECT_DIR$/content/about.php" />
       </list>
     </option>
   </component>
@@ -218,6 +209,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +239,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staff" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,14 +322,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.idesettings.emmet" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Projects/Python/perfectiontire" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Projects/Python/gggamers" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -504,13 +527,6 @@
         <state line="38" column="21" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.55128205" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="36" selection-start="4773" selection-end="4773" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="61" column="47" selection-start="2132" selection-end="2158" vertical-scroll-proportion="0.0">
@@ -520,7 +536,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="319" column="0" selection-start="7054" selection-end="7054" vertical-scroll-proportion="0.0">
+        <state line="319" column="0" selection-start="7056" selection-end="7056" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -539,16 +555,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.less">
+    <entry file="file://$PROJECT_DIR$/js/scrolly.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="49" selection-start="2457" selection-end="2457" vertical-scroll-proportion="0.0">
+        <state line="120" column="46" selection-start="3291" selection-end="3291" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/scrolly.js">
+    <entry file="file://$PROJECT_DIR$/css/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="46" selection-start="3291" selection-end="3291" vertical-scroll-proportion="0.47008547">
+        <state line="258" column="25" selection-start="6054" selection-end="6054" vertical-scroll-proportion="-15.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="24" selection-start="6577" selection-end="6577" vertical-scroll-proportion="0.7757313">
           <folding />
         </state>
       </provider>

@@ -303,10 +303,18 @@ body {
  * About page
  */
 .about-page .row {
-  padding-bottom: 30px;
+  padding-bottom: 60px;
+}
+.about-page .row h3 {
+  margin-top: 0;
 }
 .about-page .row img {
   border: 5px solid #977E66;
+}
+.about-page .row .big-about-image {
+  display: block;
+  float: left;
+  margin-right: 20px;
 }
 .about-page .main-about p {
   font-size: 14px;
